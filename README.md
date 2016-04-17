@@ -8,7 +8,7 @@ If you use this code as part of any published research, please acknowledge the
 following papers:
 
 **"A Unified Multiplicative Framework for Attribute Learning."**  
-Kongming Liang, Hong Chang, Shiguang Shan, Xilin Chen. *[ICCV](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Liang_A_Unified_Multiplicative_ICCV_2015_paper.pdf)*
+Kongming Liang, Hong Chang, Shiguang Shan, Xilin Chen. *[ICCV](http://vipl.ict.ac.cn/sites/default/files/papers/files/2015_ICCV_A%20Unified%20Multiplicative%20Framework%20for%20Attribute%20Learning.pdf)*
 
 	@inproceedings{liang2015unified,
 	  title={A Unified Multiplicative Framework for Attribute Learning},
